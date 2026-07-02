@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "japanese-lesson": {
+      "source": "m00nl1ghtp00l/podpilot",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/japanese-lesson/SKILL.md",
+      "computedHash": "36416c1cc27d6a0dbe31a3ed3ebb67bbf586deb4139e55f93895cd07ef774e9b"
+    },
+    "teaching-lesson-plan": {
+      "source": "mohitagw15856/pm-claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/teaching-lesson-plan/SKILL.md",
+      "computedHash": "c22ec95cd051aa9f96f587f2d6d8c2ab42a71dcce4c974976d43122431bc3104"
+    }
+  }
+}
